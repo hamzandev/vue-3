@@ -29,6 +29,7 @@ export default {
   },
   data: () => {
     return {
+      ownerName: 'Hamzan Wahyudi',
       persons: [
         { name: "Hamzan", age: 19 },
         { name: "Fikro Najiah", age: 20 },
